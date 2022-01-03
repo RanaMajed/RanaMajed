@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm Rana Alturki</h1>
+
+- 👀 I’m interested in Machine Learning ,Deep Learning 
+- 🌱 I’m currently learning Data analysis
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...ranamajed2019@gmail.com
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/rana-alturki/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="RanaAlturki" height="30" width="40" /></a>
+
+</p>
