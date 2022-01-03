@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 - 👀 I’m interested in Machine Learning ,Deep Learning 
 - 🌱 I’m currently learning Data analysis
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...ranamajed2019@gmail.com
 
 <h3 align="left">Connect with me:</h3>
